@@ -15,18 +15,18 @@ nutrition value.
 
 ## SETUP INSTRUCTIONS
 
-Ensure all components are connected well
-Connect the wires for power on the battery positive for positive and negative for negative
-The system will power on and the LCD sreen displays the WIFI hotspot initials both name and IP adress
-The system should be connected to exact hotspot of the phone as programmed 
-Dashboard is accessed by typing the IP address displayed by LCD At system startup in any browser like google chrome 
-Use the Username "admin" and password "dryer2025" to access the dashboard displaying sensor data and drying status
-Meanwhile the heater and fan will be running inside the chamber to supply hot air that evaporates moisture fron the fresh silverfish.
+*Ensure all components are connected well
+*Connect the wires for power on the battery positive for positive and negative for negative
+*The system will power on and the LCD sreen displays the WIFI hotspot initials both name and IP adress
+*The system should be connected to exact hotspot of the phone as programmed 
+*Dashboard is accessed by typing the IP address displayed by LCD At system startup in any browser like google chrome 
+*Use the Username "admin" and password "dryer2025" to access the dashboard displaying sensor data and drying status
+*Meanwhile the heater and fan will be running inside the chamber to supply hot air that evaporates moisture fron the fresh silverfish.
 
 
 ## COMPILLED BY 
 
-Kamya David
-Nalule Jane
-Mikisa David
-chemowo Collin
+*Kamya David
+*Nalule Jane
+*Mikisa David
+*chemowo Collin
