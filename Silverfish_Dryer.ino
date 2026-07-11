@@ -74,7 +74,6 @@ static const WifiCred WIFI_NETWORKS[] = {
   { "Kamya2026", "12345678" },
   { "Mikie2026", "12345678" },
   { "Chemowo2026", "12345678" },
-  { "KIGULA", "iambrina123" },
   { "Jane2026", "12345678" },
 };
 static const uint8_t WIFI_NETWORK_COUNT = sizeof(WIFI_NETWORKS) / sizeof(WIFI_NETWORKS[0]);
