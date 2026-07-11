@@ -24,7 +24,7 @@ nutrition value.
 * Meanwhile the heater and fan will be running inside the chamber to supply hot air that evaporates moisture fron the fresh silverfish.
 
 
-## COMPILLED BY 
+## COMPILED BY 
 
 * Kamya David
 * Nalule Jane
