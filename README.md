@@ -2,18 +2,18 @@
 The system is aimed at drying silverfish in a controlled and monitored environment (Drying chamber) in an IoT based manner to ensure improved quality of dry silverfish product
 
 
-PROJECT TITLE
+##PROJECT TITLE
 Silverfish drying and monitoring system using solar energy
 
 
-PROBLEM AND SOLUTION
+###PROBLEM AND SOLUTION
 The problemed solved is Low product quality due to over dependence on traditional means of sun drying that come with post-harvest losses.
 
 the system solves the problem by giving an alternative to traditional drying  running on  battery stored energy, this houses the silverfish from  
 dust and any form of contamination as well as automated monitoring to allow the silverfish dry to expected level without lowering its quality and 
 nutrition value.
 
-SETUP INSTRUCTIONS
+####SETUP INSTRUCTIONS
 
 Ensure all components are connected well
 Connect the wires for power on the battery positive for positive and negative for negative
