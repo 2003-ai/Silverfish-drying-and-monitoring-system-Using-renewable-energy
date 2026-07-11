@@ -15,7 +15,7 @@ nutrition value.
 
 ## SETUP INSTRUCTIONS
 
-*Ensure all components are connected well
+* Ensure all components are connected well
 *Connect the wires for power on the battery positive for positive and negative for negative
 *The system will power on and the LCD sreen displays the WIFI hotspot initials both name and IP adress
 *The system should be connected to exact hotspot of the phone as programmed 
